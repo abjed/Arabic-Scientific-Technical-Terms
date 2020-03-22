@@ -1,5 +1,4 @@
-
-المفردات العلمية و التقنية بالعربية 
+## Arabic translation of scientific and technical terms 
 
 |  المصدر  |    العربيه  |     الأنجليزية  |
 |----|:---:|:---:|
@@ -7,3 +6,5 @@
 |    |   الترجمة الآلية | Machine Translation   |
 |    |    |    |
 
+## Resources for translation 
+See [resources](./resources.md). 
