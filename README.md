@@ -51,7 +51,8 @@
 | | الانتشار العكسي | backpropagation |
 | | وظيفة التقييم | evaluation function | 
 | |حلقة التدريب | training loop |
-| | أوزان الانتباه | attention weights | 
+| | أوزان الانتباه | attention weights |
+| | دُفعة | batch |
 
 
 
