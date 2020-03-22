@@ -35,7 +35,7 @@
 | | نحدد الرموز | decide on notation |
 | | الشبه شفرة | pseudo-code |
 | | بدون تحديد صريح| by default |
-| | لمحور | axis |
+| | المحور | axis |
 | |طبقة التضمين | embedding layer |
 | | المتجه  | vector |
 | | المتجهات | vectors |
