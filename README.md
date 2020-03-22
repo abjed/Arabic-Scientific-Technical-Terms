@@ -48,7 +48,7 @@
 | | التنبؤات | Predictions |
 | |  إجبار المعلم | teacher forcing  |
 | | الميول| gradients | 
-| | الانتشار العكسي | backpropagation |\
+| | الانتشار العكسي | backpropagation |
 | | وظيفة التقييم | evaluation function | 
 | |حلقة التدريب | training loop |
 | | أوزان الانتباه | attention weights | 
