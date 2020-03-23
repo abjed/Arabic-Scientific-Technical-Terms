@@ -58,7 +58,7 @@
 | | صفائف | arrays | 
 | | بيانات التّدريب | training set | 
 | | مجموعة الاختبار  | test set | 
-| | عدَدًا طبيعيّا | integer | 
+| | عدد طبيعيّ | integer | 
 | | الذّاكرة| memory |
 || التسميات | labels| 
 | | المتغيّر  | variable | 
@@ -67,8 +67,8 @@
 | | مقاييس | metrics | 
 | |الإفراط في تعلّم كل ما في البيانات | overfitting |
 | | احتمالات | probabilities |
-| | قائمة  | list | 
-
+| | قائمة  | list |
+| | صور ذات تدرّج رمادي  | greyscale images |
 
 
 ## Resources for translation 
