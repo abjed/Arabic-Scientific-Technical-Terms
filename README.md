@@ -53,6 +53,21 @@
 | |حلقة التدريب | training loop |
 | | أوزان الانتباه | attention weights |
 | | دُفعة | batch |
+| | تصنيف | classification |
+| | عالية المستوى  | high level | 
+| | صفائف | arrays | 
+| | بيانات التّدريب | training set | 
+| | مجموعة الاختبار  | test set | 
+| | عدَدًا طبيعيّا | integer | 
+| | الذّاكرة| memory |
+|| التسميات | labels| 
+| | المتغيّر  | variable | 
+| | معلمات| parameters | 
+| | التمثيلات | representations | 
+| | مقاييس | metrics | 
+| |الإفراط في تعلّم كل ما في البيانات | overfitting |
+| | احتمالات | probabilities |
+| | قائمة  | list | 
 
 
 
