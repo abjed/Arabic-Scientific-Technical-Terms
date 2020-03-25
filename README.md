@@ -69,6 +69,7 @@
 | | احتمالات | probabilities |
 | | قائمة  | list |
 | | صور ذات تدرّج رمادي  | greyscale images |
+| | تكثير البيانات | data augmentation |
 
 
 ## Resources for translation 
