@@ -70,6 +70,7 @@
 | | قائمة  | list |
 | | صور ذات تدرّج رمادي  | greyscale images |
 | | تكثير البيانات | data augmentation |
+| | تسريع الجهاز | hardware acceleration |
 
 
 ## Resources for translation 
