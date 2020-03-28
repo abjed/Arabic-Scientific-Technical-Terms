@@ -72,6 +72,7 @@
 | | تكثير البيانات | data augmentation |
 | | تسريع الجهاز | hardware acceleration |
 | | التنفيذ المتلهّف | eager execution |
+| | الشبكات العصبّية المتكرّرة | Recurrent Neural Networks |
 
 
 ## Resources for translation 
