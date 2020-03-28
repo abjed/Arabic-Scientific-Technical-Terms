@@ -71,6 +71,7 @@
 | | صور ذات تدرّج رمادي  | greyscale images |
 | | تكثير البيانات | data augmentation |
 | | تسريع الجهاز | hardware acceleration |
+| | التنفيذ المتلهّف | eager execution |
 
 
 ## Resources for translation 
