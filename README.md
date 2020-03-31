@@ -73,7 +73,7 @@
 | | تسريع الجهاز | hardware acceleration |
 | | التنفيذ المتلهّف | eager execution |
 | | الشبكات العصبّية المتكرّرة | Recurrent Neural Networks |
-
+| | وظيفة | Function (Programming) |
 
 ## Resources for translation 
 See [resources](./resources.md). 
