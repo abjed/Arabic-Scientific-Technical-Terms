@@ -81,7 +81,8 @@
 | الجداء النقطي المعير | scaled dot product |
 | الأبعاد | dimensions | 
 | السلاسل الزمنية| time-series | 
-|مقسم جملٍ | tokenizer |
+| مقسم جملٍ | tokenizer |
+| الضبط| regularization |
 
 
 ## Resources for translation 
