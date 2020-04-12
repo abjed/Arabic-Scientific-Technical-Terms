@@ -75,7 +75,8 @@
 | | الشبكات العصبّية المتكرّرة | Recurrent Neural Networks |
 | | وظيفة | Function (Programming) |
 | | نموذج المحولات | Transformer model |
-| | فهم اللغات | language understanding | 
+| | فهم اللغات | language understanding |
+| | الانتباه الذاتي | self-attention | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
