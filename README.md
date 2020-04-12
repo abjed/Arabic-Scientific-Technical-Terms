@@ -83,6 +83,8 @@
 | السلاسل الزمنية| time-series | 
 | مقسم جملٍ | tokenizer |
 | الضبط| regularization |
+| المخطط | graph | 
+| موتر | tensor |
 
 
 ## Resources for translation 
