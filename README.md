@@ -76,7 +76,8 @@
 | | وظيفة | Function (Programming) |
 | | نموذج المحولات | Transformer model |
 | | فهم اللغات | language understanding |
-| | الانتباه الذاتي | self-attention | 
+| | الانتباه الذاتي | self-attention |
+| | انتباه متعدد الرؤوس | Multi-head attention | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
