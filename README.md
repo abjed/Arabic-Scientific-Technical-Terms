@@ -77,7 +77,8 @@
 | | نموذج المحولات | Transformer model |
 | | فهم اللغات | language understanding |
 | | الانتباه الذاتي | self-attention |
-| | انتباه متعدد الرؤوس | Multi-head attention | 
+| | انتباه متعدد الرؤوس | Multi-head attention |
+| |  الجداء النقطي المعير | scaled dot product |
 
 ## Resources for translation 
 See [resources](./resources.md). 
