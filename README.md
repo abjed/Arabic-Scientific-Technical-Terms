@@ -79,7 +79,8 @@
 | | الانتباه الذاتي | self-attention |
 | | انتباه متعدد الرؤوس | Multi-head attention |
 | |  الجداء النقطي المعير | scaled dot product |
-| | الأبعاد | dimensions
+| | الأبعاد | dimensions | 
+| | السلاسل الزمنية| time-series | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
