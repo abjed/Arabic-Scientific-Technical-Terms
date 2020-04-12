@@ -74,6 +74,8 @@
 | | التنفيذ المتلهّف | eager execution |
 | | الشبكات العصبّية المتكرّرة | Recurrent Neural Networks |
 | | وظيفة | Function (Programming) |
+| | نموذج المحولات | Transformer model |
+| | فهم اللغات | language understanding | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
