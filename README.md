@@ -90,7 +90,7 @@
 | مصفوفة متناثرة أو مصفوفة قليلة الكثافة | sparse matrix |
 | معامل | coefficient |
 | النموذج المضبوط | regularized model |
-| | formula |
+| معدلات | formulas |
 
 ## Resources for translation 
 See [resources](./resources.md). 
