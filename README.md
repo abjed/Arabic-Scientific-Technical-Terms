@@ -89,6 +89,7 @@
 | نموذج متناثر أو نموذج قليل الكثافة | sparse model |
 | مصفوفة متناثرة أو مصفوفة قليلة الكثافة | sparse matrix |
 | معامل | coefficient |
+| النموذج المضبوط | regularized model |
 
 ## Resources for translation 
 See [resources](./resources.md). 
