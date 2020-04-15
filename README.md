@@ -81,7 +81,7 @@
 | الجداء النقطي المعير | scaled dot product |
 | الأبعاد | dimensions | 
 | السلاسل الزمنية| time-series | 
-| مقسم جملٍ | tokenizer |
+| مقسم جُملٍ | tokenizer |
 | الضبط| regularization |
 | المخطط | graph | 
 | موتر | tensor |
@@ -90,7 +90,8 @@
 | مصفوفة متناثرة أو مصفوفة قليلة الكثافة | sparse matrix |
 | معامل | coefficient |
 | النموذج المضبوط | regularized model |
-| معدلات | formulas |
+| معادلات | formulas |
+| إسقاط عشوائي | Dropout |
 
 ## Resources for translation 
 See [resources](./resources.md). 
