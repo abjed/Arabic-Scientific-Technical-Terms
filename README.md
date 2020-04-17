@@ -95,6 +95,7 @@
 | عمليّة التحسين | optimization |
 | خاصيّة أو ميزة | Feature |
 | فئة | class |
+| وظيفة قابلة للإستدعاء | callback | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
