@@ -93,7 +93,8 @@
 | معادلات | formulas |
 | إسقاط عشوائي | Dropout |
 | عمليّة التحسين | optimization |
-| خاصيّة أو ميزة | Feature | 
+| خاصيّة أو ميزة | Feature |
+| فئة | class |
 
 ## Resources for translation 
 See [resources](./resources.md). 
