@@ -95,7 +95,8 @@
 | عمليّة التحسين | optimization |
 | خاصيّة أو ميزة | Feature |
 | فئة | class |
-| وظيفة قابلة للإستدعاء | callback | 
+| وظيفة قابلة للإستدعاء | callback |
+| مقياس لوغاريتمي | log-scale | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
