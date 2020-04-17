@@ -92,6 +92,7 @@
 | النموذج المضبوط | regularized model |
 | معادلات | formulas |
 | إسقاط عشوائي | Dropout |
+| عمليّة التحسين | optimization | 
 
 ## Resources for translation 
 See [resources](./resources.md). 
