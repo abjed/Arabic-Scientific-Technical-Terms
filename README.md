@@ -98,6 +98,8 @@
 | وظيفة قابلة للإستدعاء | callback |
 | مقياس لوغاريتمي | log-scale |
 | تقنية الححب | masking |
+|المتجه الحاجب | mask 
+
 
 
 ## Resources for translation 
