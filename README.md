@@ -96,7 +96,9 @@
 | خاصيّة أو ميزة | Feature |
 | فئة | class |
 | وظيفة قابلة للإستدعاء | callback |
-| مقياس لوغاريتمي | log-scale | 
+| مقياس لوغاريتمي | log-scale |
+| تقنية الححب | masking |
+
 
 ## Resources for translation 
 See [resources](./resources.md). 
