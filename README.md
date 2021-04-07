@@ -3,6 +3,7 @@
 | العربية  |  الأنجليزية  |
 |:---:|:---:|
 | المبادئ الأساسية للإحتمالات | Basic Probability |
+| التعلّم الآلي | Machine Learning |
 | الترجمة الآلية | Machine Translation   |
 | الشبكات العصبية | Neural networks   |
 | آلية الانتباه| Attention mechanism |
